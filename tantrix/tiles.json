@@ -1,0 +1,592 @@
+[
+  {
+    "Timestamp": "3/22/2018 17:24:24",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 17:29:55",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 18:13:16",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 4",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "5 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 20:42:54",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 20:48:39",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 22:13:46",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 22:48:25",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 22:50:03",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 22:51:45",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 22:53:26",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 22:56:24",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:01:40",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:02:55",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:04:06",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 4",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "5 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:12:39",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:05:40",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:15:41",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:16:54",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:17:58",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:19:41",
+    "Link 1 Start & End": " 3 5",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "1 2",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:20:43",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 4",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "5 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:21:53",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:23:02",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 4",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "5 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:24:48",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:26:00",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 4",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "5 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:27:00",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:28:29",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:29:22",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 4",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "5 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:30:33",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:31:26",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:33:46",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:35:22",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:38:21",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:45:48",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:47:29",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:48:43",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:49:48",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:50:43",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:52:06",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:53:34",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Red",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:54:28",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:55:43",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:57:02",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 4",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "5 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:58:30",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:59:28",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 4",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "5 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/22/2018 23:59:29",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "2 3",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:00:13",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:01:03",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:10:10",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 6",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "4 5",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:11:30",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:12:49",
+    "Link 1 Start & End": "1 5",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "2 4",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:13:56",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:14:57",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Blue",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:15:47",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Yellow",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Blue",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:16:49",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Green",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 0:17:43",
+    "Link 1 Start & End": "1 2",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "3 5",
+    "Link 2 Color": "Green",
+    "Link 3 Start & End": "4 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 11:34:32",
+    "Link 1 Start & End": "1 4",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "2 5",
+    "Link 2 Color": "Red",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Yellow",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 11:37:32",
+    "Link 1 Start & End": "1 4",
+    "Link 1 Color": "Green",
+    "Link 2 Start & End": "2 5",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "3 6",
+    "Link 3 Color": "Red",
+    "Order": "1 2 3"
+  },
+  {
+    "Timestamp": "3/23/2018 14:20:16",
+    "Link 1 Start & End": "1 6",
+    "Link 1 Color": "Blue",
+    "Link 2 Start & End": "2 5",
+    "Link 2 Color": "Yellow",
+    "Link 3 Start & End": "3 4",
+    "Link 3 Color": "Red",
+    "Order": "2 3 1"
+  }
+]
